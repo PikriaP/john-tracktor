@@ -1,6 +1,6 @@
 .container-header {
   max-width: 1728px;
-  width: 90%;
+  width: 100%;
   height: 158px;
   margin: 0 auto;
 }
@@ -16,7 +16,6 @@
 
 .right-block-header {
   display: flex;
-  /* justify-content: space-between; */
   width: 383px;
   height: 66px;
 }
@@ -44,7 +43,6 @@
 .ul-items {
   display: flex;
   width: 505px;
-  /* height: 65px; */
   justify-content: space-between;
   font-family: "Poppins";
   font-size: 24px;
@@ -121,7 +119,6 @@ span {
   color: #ff7420;
 }
 .container-div2 {
-  /* display: flex; */
   background-color: #ff7420;
   height: 936px;
 }
